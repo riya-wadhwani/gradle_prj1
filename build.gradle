@@ -34,4 +34,5 @@ application {
     // Define the main class for the application.
     mainClass = 'edu.abc.SumApp1'
     mainClass = 'edu.abc.Employee'
+    mainClass = 'edu.abc.BankAccount'
 }
